@@ -14,11 +14,14 @@ The Human Face Counting project is a Python application utilizing OpenCV and Haa
    ```bash
    git clone https://github.com/neildsouza32/human-face-counting.git
    ```
+   -----
 2. Navigate to the project directory.
+   -----
 3. Run the following command.
    ```bash
    python main.py
    ```
+   -----
 4. Choose between Capture Mode or Upload Mode to count faces.
 
 ## Contribution
