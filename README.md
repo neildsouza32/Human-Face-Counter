@@ -10,6 +10,7 @@ The Human Face Counting project is a Python application utilizing OpenCV and Haa
 ## Running the Application
 
 1. Clone the Repository.
+   </br>
    ```bash
    git clone https://github.com/neildsouza32/human-face-counting.git
    ```
