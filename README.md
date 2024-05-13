@@ -1,4 +1,9 @@
 # Human Face Counting
 
-Face detection is used in which human faces are detected and they are counted. Opencomputer-vision (OpenCV) library and HAAR cascades is used to implement this method using python. HAAR cascades is a machine learning based approach where cascade function is trained  with a set of input data. OpenCV contains many pre-trained classifiers for face, eyes, smile etc. The goal of this project is to develop a Python-based application for face counting in images. This project will provide a solution for counting the number of faces in an image, which can be used in various scenarios, such as monitoring the number of people in a crowded area, tracking the attendance of students in a class, and conducting demographic studies. The project will provide a user-friendly interface for capturing images and displaying the results of the face counting. This project aims to contribute to the advancement of the field of computer vision by providing a practical and efficient solution for face counting in images.
+The Human Face Counting project is a Python application utilizing OpenCV and Haar cascades for accurately counting the number of human faces in images.
 
+## Features
+
+**Capture Mode:** Allows capturing an image from the camera and counting faces.
+**Upload Mode:** Enables users to upload an image file and count faces.
+**Real-time Face Detection:** Utilizes Haar cascades for detecting and counting faces in real-time.
