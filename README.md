@@ -1,5 +1,5 @@
 # Human Face Counting
-
+-----
 ## Overview
 The Human Face Counting project is a Python application utilizing OpenCV and Haar cascades for accurately counting the number of human faces in images.
 
