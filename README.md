@@ -8,11 +8,9 @@ The Human Face Counting project is a Python application utilizing OpenCV and Haa
 **Upload Mode:** Enables users to upload an image file and count faces.</br>
 **Real-time Face Detection:** Utilizes Haar cascades for detecting and counting faces in real-time.</br>
 
-
-# Usage
 ## Running the Application
 
 1. Navigate to the project directory.
-   '''bash
+   '''
    python main.py
 
