@@ -16,6 +16,7 @@ The Human Face Counting project is a Python application utilizing OpenCV and Haa
    ```
 2. Navigate to the project directory.  </br>  </br>
 3. Run the following command.
+   </br></br>
    ```bash
    python main.py
    ```
